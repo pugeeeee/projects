@@ -1,0 +1,10 @@
+C:\Users\Gerald\Desktop\Oop\c110\c110\bin\Debug\c110.exe.config
+C:\Users\Gerald\Desktop\Oop\c110\c110\bin\Debug\c110.exe
+C:\Users\Gerald\Desktop\Oop\c110\c110\bin\Debug\c110.pdb
+C:\Users\Gerald\Desktop\Oop\c110\c110\obj\Debug\c110.csproj.AssemblyReference.cache
+C:\Users\Gerald\Desktop\Oop\c110\c110\obj\Debug\c110.Properties.Resources.resources
+C:\Users\Gerald\Desktop\Oop\c110\c110\obj\Debug\c110.csproj.GenerateResource.cache
+C:\Users\Gerald\Desktop\Oop\c110\c110\obj\Debug\c110.csproj.CoreCompileInputs.cache
+C:\Users\Gerald\Desktop\Oop\c110\c110\obj\Debug\c110.exe
+C:\Users\Gerald\Desktop\Oop\c110\c110\obj\Debug\c110.pdb
+C:\Users\Gerald\Desktop\Oop\c110\c110\obj\Debug\c110.form.resources
