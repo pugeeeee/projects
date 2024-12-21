@@ -1,0 +1,11 @@
+C:\Users\Gerald\Documents\CC106\trafficlight\trafficlight\bin\Debug\trafficlight.exe.config
+C:\Users\Gerald\Documents\CC106\trafficlight\trafficlight\bin\Debug\trafficlight.exe
+C:\Users\Gerald\Documents\CC106\trafficlight\trafficlight\bin\Debug\trafficlight.pdb
+C:\Users\Gerald\Documents\CC106\trafficlight\trafficlight\obj\Debug\trafficlight.csproj.AssemblyReference.cache
+C:\Users\Gerald\Documents\CC106\trafficlight\trafficlight\obj\Debug\trafficlight.Form1.resources
+C:\Users\Gerald\Documents\CC106\trafficlight\trafficlight\obj\Debug\trafficlight.Properties.Resources.resources
+C:\Users\Gerald\Documents\CC106\trafficlight\trafficlight\obj\Debug\trafficlight.csproj.GenerateResource.cache
+C:\Users\Gerald\Documents\CC106\trafficlight\trafficlight\obj\Debug\trafficlight.csproj.CoreCompileInputs.cache
+C:\Users\Gerald\Documents\CC106\trafficlight\trafficlight\obj\Debug\trafficlight.exe
+C:\Users\Gerald\Documents\CC106\trafficlight\trafficlight\obj\Debug\trafficlight.pdb
+C:\Users\Gerald\Documents\CC106\trafficlight\trafficlight\obj\Debug\trafficlight.Form2.resources
