@@ -1,0 +1,11 @@
+C:\Users\Gerald\Desktop\Oop\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\Gerald\Desktop\Oop\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\Gerald\Desktop\Oop\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\Gerald\Desktop\Oop\calculator\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+C:\Users\Gerald\Desktop\Oop\calculator\calculator\obj\Debug\calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gerald\Desktop\Oop\calculator\calculator\obj\Debug\calculator.Form1.resources
+C:\Users\Gerald\Desktop\Oop\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\Gerald\Desktop\Oop\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+C:\Users\Gerald\Desktop\Oop\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\Gerald\Desktop\Oop\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\Gerald\Desktop\Oop\calculator\calculator\obj\Debug\calculator.pdb
