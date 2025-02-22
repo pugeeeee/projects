@@ -1,0 +1,101 @@
+.attendance-table {
+    width: 100%;
+    border-collapse: collapse; /* Ensures borders are merged */
+    font-size: 18px;
+    background: rgba(255, 255, 255, 0.9);
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    border: 2px solid black; /* Outer table border */
+}
+
+.attendance-table th, .attendance-table td {
+    padding: 12px;
+    border: 2px solid black; /* Adds borders around each cell */
+    text-align: center; /* Centers text */
+}
+
+.attendance-table th {
+    background: linear-gradient(135deg, rgba(233, 99, 106, 0.9), rgba(221, 11, 214, 0.8));
+    color: white;
+    text-transform: uppercase;
+}
+
+.attendance-table th:first-child {
+    border-top-left-radius: 10px;
+}
+
+.attendance-table th:last-child {
+    border-top-right-radius: 10px;
+}
+
+.attendance-table tr:nth-child(even) {
+    background-color: rgba(54, 214, 217, 0.2);
+}
+
+.attendance-table tr:hover {
+    background-color: rgba(233, 99, 106, 0.3);
+    transition: 0.3s ease-in-out;
+}
+.attendance-container{
+
+    background-color: rgba(134, 177, 177, 0);
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url("pics/bg.jpg");
+    background-attachment: fixed;
+}
+.nav-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgba(54, 214, 217, 0.5); /* 50% transparency */
+    padding: 15px;  
+}
+.nav-links a {
+    color: white;
+    text-decoration: none;
+    margin-left: 20px;
+    cursor: pointer;
+}
+.logo{
+    width: 40x;
+    height: 40px;
+    }
+
+.h2{
+
+    font-size: 50px;
+    text-shadow: 2px 2px rgb(181, 196, 216);
+}
+#attends-total{
+      
+      margin: auto;
+    width: 80%;
+    position: relative;
+    
+}
+#day{
+    font-family: Arial, Helvetica, sans-serif;
+font-size: 26px;
+letter-spacing: 0.6px;
+word-spacing: 0px;
+color: #000000;
+font-weight: 700;
+text-decoration: none;
+font-style: normal;
+font-variant: small-caps;
+text-shadow: 4px 1px 18px rgba(0, 0, 0, 0.92);
+}
+#record{
+    font-size: 40px;
+    text-shadow: 2px 2px rgb(181, 196, 216); font-size: 40px;
+    text-shadow: 2px 2px rgb(181, 196, 216); 
+}
+#totalwork{
+    font-size: 40px;
+    text-shadow: 2px 2px rgb(181, 196, 216); 
+}
