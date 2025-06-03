@@ -1,0 +1,11 @@
+C:\Users\Gerald\Desktop\chat\chat\bin\Debug\chat.exe.config
+C:\Users\Gerald\Desktop\chat\chat\bin\Debug\chat.exe
+C:\Users\Gerald\Desktop\chat\chat\bin\Debug\chat.pdb
+C:\Users\Gerald\Desktop\chat\chat\obj\Debug\chat.csproj.AssemblyReference.cache
+C:\Users\Gerald\Desktop\chat\chat\obj\Debug\chat.Form1.resources
+C:\Users\Gerald\Desktop\chat\chat\obj\Debug\chat.Properties.Resources.resources
+C:\Users\Gerald\Desktop\chat\chat\obj\Debug\chat.csproj.GenerateResource.cache
+C:\Users\Gerald\Desktop\chat\chat\obj\Debug\chat.csproj.CoreCompileInputs.cache
+C:\Users\Gerald\Desktop\chat\chat\obj\Debug\chat.exe
+C:\Users\Gerald\Desktop\chat\chat\obj\Debug\chat.pdb
+C:\Users\Gerald\Desktop\chat\chat\obj\Debug\chat.exe.config
