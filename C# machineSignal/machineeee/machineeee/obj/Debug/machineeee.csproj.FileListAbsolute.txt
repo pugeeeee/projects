@@ -1,0 +1,11 @@
+C:\Users\Gerald\Desktop\machineeee\machineeee\bin\Debug\machineeee.exe.config
+C:\Users\Gerald\Desktop\machineeee\machineeee\bin\Debug\machineeee.exe
+C:\Users\Gerald\Desktop\machineeee\machineeee\bin\Debug\machineeee.pdb
+C:\Users\Gerald\Desktop\machineeee\machineeee\obj\Debug\machineeee.csproj.AssemblyReference.cache
+C:\Users\Gerald\Desktop\machineeee\machineeee\obj\Debug\machineeee.Form1.resources
+C:\Users\Gerald\Desktop\machineeee\machineeee\obj\Debug\machineeee.Properties.Resources.resources
+C:\Users\Gerald\Desktop\machineeee\machineeee\obj\Debug\machineeee.csproj.GenerateResource.cache
+C:\Users\Gerald\Desktop\machineeee\machineeee\obj\Debug\machineeee.csproj.CoreCompileInputs.cache
+C:\Users\Gerald\Desktop\machineeee\machineeee\obj\Debug\machineeee.exe
+C:\Users\Gerald\Desktop\machineeee\machineeee\obj\Debug\machineeee.pdb
+C:\Users\Gerald\Desktop\machineeee\machineeee\obj\Debug\machineeee.exe.config
