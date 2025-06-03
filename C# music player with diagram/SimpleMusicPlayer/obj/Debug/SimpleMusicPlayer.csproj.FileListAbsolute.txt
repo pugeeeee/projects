@@ -1,0 +1,98 @@
+C:\Users\markr\source\repos\SimpleMusicPlayer\bin\Debug\SimpleMusicPlayer.exe.config
+C:\Users\markr\source\repos\SimpleMusicPlayer\bin\Debug\SimpleMusicPlayer.exe
+C:\Users\markr\source\repos\SimpleMusicPlayer\bin\Debug\SimpleMusicPlayer.pdb
+C:\Users\markr\source\repos\SimpleMusicPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\markr\source\repos\SimpleMusicPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\markr\source\repos\SimpleMusicPlayer\obj\Debug\SimpleMusicPlayer.csproj.AssemblyReference.cache
+C:\Users\markr\source\repos\SimpleMusicPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\markr\source\repos\SimpleMusicPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\markr\source\repos\SimpleMusicPlayer\obj\Debug\SimpleMusicPlayer.csproj.ResolveComReference.cache
+C:\Users\markr\source\repos\SimpleMusicPlayer\obj\Debug\SimpleMusicPlayer.Form1.resources
+C:\Users\markr\source\repos\SimpleMusicPlayer\obj\Debug\SimpleMusicPlayer.Properties.Resources.resources
+C:\Users\markr\source\repos\SimpleMusicPlayer\obj\Debug\SimpleMusicPlayer.csproj.GenerateResource.cache
+C:\Users\markr\source\repos\SimpleMusicPlayer\obj\Debug\SimpleMusicPlayer.csproj.CoreCompileInputs.cache
+C:\Users\markr\source\repos\SimpleMusicPlayer\obj\Debug\SimpleMusicPlayer.exe
+C:\Users\markr\source\repos\SimpleMusicPlayer\obj\Debug\SimpleMusicPlayer.pdb
+C:\Users\markr\source\repos\SimpleMusicPlayer\obj\Debug\SimpleMusicPlayer.Form2.resources
+E:\SimpleMusicPlayer\bin\Debug\SimpleMusicPlayer.exe.config
+E:\SimpleMusicPlayer\bin\Debug\SimpleMusicPlayer.exe
+E:\SimpleMusicPlayer\bin\Debug\SimpleMusicPlayer.pdb
+E:\SimpleMusicPlayer\bin\Debug\Interop.WMPLib.dll
+E:\SimpleMusicPlayer\bin\Debug\AxInterop.WMPLib.dll
+E:\SimpleMusicPlayer\obj\Debug\SimpleMusicPlayer.csproj.AssemblyReference.cache
+E:\SimpleMusicPlayer\obj\Debug\Interop.WMPLib.dll
+E:\SimpleMusicPlayer\obj\Debug\AxInterop.WMPLib.dll
+E:\SimpleMusicPlayer\obj\Debug\SimpleMusicPlayer.csproj.ResolveComReference.cache
+E:\SimpleMusicPlayer\obj\Debug\SimpleMusicPlayer.Form1.resources
+E:\SimpleMusicPlayer\obj\Debug\SimpleMusicPlayer.Form2.resources
+E:\SimpleMusicPlayer\obj\Debug\SimpleMusicPlayer.Properties.Resources.resources
+E:\SimpleMusicPlayer\obj\Debug\SimpleMusicPlayer.csproj.GenerateResource.cache
+E:\SimpleMusicPlayer\obj\Debug\SimpleMusicPlayer.csproj.CoreCompileInputs.cache
+E:\SimpleMusicPlayer\obj\Debug\SimpleMusicPlayer.exe
+E:\SimpleMusicPlayer\obj\Debug\SimpleMusicPlayer.pdb
+C:\Users\bisco\OneDrive\Documents\PPG\New folder\SimpleMusicPlayer\bin\Debug\SimpleMusicPlayer.exe.config
+C:\Users\bisco\OneDrive\Documents\PPG\New folder\SimpleMusicPlayer\bin\Debug\SimpleMusicPlayer.exe
+C:\Users\bisco\OneDrive\Documents\PPG\New folder\SimpleMusicPlayer\bin\Debug\SimpleMusicPlayer.pdb
+C:\Users\bisco\OneDrive\Documents\PPG\New folder\SimpleMusicPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\bisco\OneDrive\Documents\PPG\New folder\SimpleMusicPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\bisco\OneDrive\Documents\PPG\New folder\SimpleMusicPlayer\obj\Debug\SimpleMusicPlayer.csproj.AssemblyReference.cache
+C:\Users\bisco\OneDrive\Documents\PPG\New folder\SimpleMusicPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\bisco\OneDrive\Documents\PPG\New folder\SimpleMusicPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\bisco\OneDrive\Documents\PPG\New folder\SimpleMusicPlayer\obj\Debug\SimpleMusicPlayer.csproj.ResolveComReference.cache
+C:\Users\bisco\OneDrive\Documents\PPG\New folder\SimpleMusicPlayer\obj\Debug\SimpleMusicPlayer.Form1.resources
+C:\Users\bisco\OneDrive\Documents\PPG\New folder\SimpleMusicPlayer\obj\Debug\SimpleMusicPlayer.Form2.resources
+C:\Users\bisco\OneDrive\Documents\PPG\New folder\SimpleMusicPlayer\obj\Debug\SimpleMusicPlayer.Properties.Resources.resources
+C:\Users\bisco\OneDrive\Documents\PPG\New folder\SimpleMusicPlayer\obj\Debug\SimpleMusicPlayer.csproj.GenerateResource.cache
+C:\Users\bisco\OneDrive\Documents\PPG\New folder\SimpleMusicPlayer\obj\Debug\SimpleMusicPlayer.csproj.CoreCompileInputs.cache
+C:\Users\bisco\OneDrive\Documents\PPG\New folder\SimpleMusicPlayer\obj\Debug\SimpleMusicPlayer.exe
+C:\Users\bisco\OneDrive\Documents\PPG\New folder\SimpleMusicPlayer\obj\Debug\SimpleMusicPlayer.pdb
+C:\Users\Gerald\Downloads\SimpleMusicPlayer-20250516T120613Z-1-001\SimpleMusicPlayer\obj\Debug\SimpleMusicPlayer.csproj.AssemblyReference.cache
+C:\Users\Gerald\Downloads\SimpleMusicPlayer-20250516T120613Z-1-001\SimpleMusicPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\Gerald\Downloads\SimpleMusicPlayer-20250516T120613Z-1-001\SimpleMusicPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Gerald\Downloads\SimpleMusicPlayer-20250516T120613Z-1-001\SimpleMusicPlayer\obj\Debug\SimpleMusicPlayer.csproj.ResolveComReference.cache
+C:\Users\Gerald\Downloads\SimpleMusicPlayer-20250516T120613Z-1-001\SimpleMusicPlayer\obj\Debug\SimpleMusicPlayer.pdb
+C:\Users\Gerald\Downloads\SimpleMusicPlayer-20250516T120613Z-1-001\SimpleMusicPlayer\bin\Debug\SimpleMusicPlayer.exe.config
+C:\Users\Gerald\Downloads\SimpleMusicPlayer-20250516T120613Z-1-001\SimpleMusicPlayer\bin\Debug\SimpleMusicPlayer.exe
+C:\Users\Gerald\Downloads\SimpleMusicPlayer-20250516T120613Z-1-001\SimpleMusicPlayer\bin\Debug\SimpleMusicPlayer.pdb
+C:\Users\Gerald\Downloads\SimpleMusicPlayer-20250516T120613Z-1-001\SimpleMusicPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\Gerald\Downloads\SimpleMusicPlayer-20250516T120613Z-1-001\SimpleMusicPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Gerald\Downloads\SimpleMusicPlayer-20250516T120613Z-1-001\SimpleMusicPlayer\obj\Debug\SimpleMusicPlayer.Form1.resources
+C:\Users\Gerald\Downloads\SimpleMusicPlayer-20250516T120613Z-1-001\SimpleMusicPlayer\obj\Debug\SimpleMusicPlayer.Form2.resources
+C:\Users\Gerald\Downloads\SimpleMusicPlayer-20250516T120613Z-1-001\SimpleMusicPlayer\obj\Debug\SimpleMusicPlayer.Properties.Resources.resources
+C:\Users\Gerald\Downloads\SimpleMusicPlayer-20250516T120613Z-1-001\SimpleMusicPlayer\obj\Debug\SimpleMusicPlayer.csproj.GenerateResource.cache
+C:\Users\Gerald\Downloads\SimpleMusicPlayer-20250516T120613Z-1-001\SimpleMusicPlayer\obj\Debug\SimpleMusicPlayer.csproj.CoreCompileInputs.cache
+C:\Users\Gerald\Downloads\SimpleMusicPlayer-20250516T120613Z-1-001\SimpleMusicPlayer\obj\Debug\SimpleMusicPlayer.exe
+C:\Users\Gerald\Desktop\SimpleMusicPlayer\bin\Debug\SimpleMusicPlayer.exe.config
+C:\Users\Gerald\Desktop\SimpleMusicPlayer\bin\Debug\SimpleMusicPlayer.exe
+C:\Users\Gerald\Desktop\SimpleMusicPlayer\bin\Debug\SimpleMusicPlayer.pdb
+C:\Users\Gerald\Desktop\SimpleMusicPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\Gerald\Desktop\SimpleMusicPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Gerald\Desktop\SimpleMusicPlayer\obj\Debug\SimpleMusicPlayer.csproj.AssemblyReference.cache
+C:\Users\Gerald\Desktop\SimpleMusicPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\Gerald\Desktop\SimpleMusicPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Gerald\Desktop\SimpleMusicPlayer\obj\Debug\SimpleMusicPlayer.csproj.ResolveComReference.cache
+C:\Users\Gerald\Desktop\SimpleMusicPlayer\obj\Debug\SimpleMusicPlayer.Form1.resources
+C:\Users\Gerald\Desktop\SimpleMusicPlayer\obj\Debug\SimpleMusicPlayer.Form2.resources
+C:\Users\Gerald\Desktop\SimpleMusicPlayer\obj\Debug\SimpleMusicPlayer.Properties.Resources.resources
+C:\Users\Gerald\Desktop\SimpleMusicPlayer\obj\Debug\SimpleMusicPlayer.csproj.GenerateResource.cache
+C:\Users\Gerald\Desktop\SimpleMusicPlayer\obj\Debug\SimpleMusicPlayer.csproj.CoreCompileInputs.cache
+C:\Users\Gerald\Desktop\SimpleMusicPlayer\obj\Debug\SimpleMusicPlayer.exe
+C:\Users\Gerald\Desktop\SimpleMusicPlayer\obj\Debug\SimpleMusicPlayer.pdb
+C:\Users\Gerald\Desktop\geraldddddd\SimpleMusicPlayer\bin\Debug\SimpleMusicPlayer.exe.config
+C:\Users\Gerald\Desktop\geraldddddd\SimpleMusicPlayer\bin\Debug\SimpleMusicPlayer.exe
+C:\Users\Gerald\Desktop\geraldddddd\SimpleMusicPlayer\bin\Debug\SimpleMusicPlayer.pdb
+C:\Users\Gerald\Desktop\geraldddddd\SimpleMusicPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\Gerald\Desktop\geraldddddd\SimpleMusicPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Gerald\Desktop\geraldddddd\SimpleMusicPlayer\obj\Debug\SimpleMusicPlayer.csproj.AssemblyReference.cache
+C:\Users\Gerald\Desktop\geraldddddd\SimpleMusicPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\Gerald\Desktop\geraldddddd\SimpleMusicPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Gerald\Desktop\geraldddddd\SimpleMusicPlayer\obj\Debug\SimpleMusicPlayer.csproj.ResolveComReference.cache
+C:\Users\Gerald\Desktop\geraldddddd\SimpleMusicPlayer\obj\Debug\SimpleMusicPlayer.Form1.resources
+C:\Users\Gerald\Desktop\geraldddddd\SimpleMusicPlayer\obj\Debug\SimpleMusicPlayer.Form2.resources
+C:\Users\Gerald\Desktop\geraldddddd\SimpleMusicPlayer\obj\Debug\SimpleMusicPlayer.Properties.Resources.resources
+C:\Users\Gerald\Desktop\geraldddddd\SimpleMusicPlayer\obj\Debug\SimpleMusicPlayer.csproj.GenerateResource.cache
+C:\Users\Gerald\Desktop\geraldddddd\SimpleMusicPlayer\obj\Debug\SimpleMusicPlayer.csproj.CoreCompileInputs.cache
+C:\Users\Gerald\Desktop\geraldddddd\SimpleMusicPlayer\obj\Debug\SimpleMusicPlayer.exe
+C:\Users\Gerald\Desktop\geraldddddd\SimpleMusicPlayer\obj\Debug\SimpleMusicPlayer.pdb
+C:\Users\Gerald\Desktop\geraldddddd\SimpleMusicPlayer\obj\Debug\SimpleMusicPlayer.exe.config
+C:\Users\Gerald\Desktop\SimpleMusicPlayer\obj\Debug\SimpleMusicPlayer.exe.config
