@@ -1,0 +1,27 @@
+C:\Users\Rocel Torrecampo\OneDrive\Desktop\animals\animals\bin\Debug\animals.exe.config
+C:\Users\Rocel Torrecampo\OneDrive\Desktop\animals\animals\bin\Debug\animals.exe
+C:\Users\Rocel Torrecampo\OneDrive\Desktop\animals\animals\bin\Debug\animals.pdb
+C:\Users\Rocel Torrecampo\OneDrive\Desktop\animals\animals\obj\Debug\animals.csproj.AssemblyReference.cache
+C:\Users\Rocel Torrecampo\OneDrive\Desktop\animals\animals\obj\Debug\animals.Form1.resources
+C:\Users\Rocel Torrecampo\OneDrive\Desktop\animals\animals\obj\Debug\animals.Properties.Resources.resources
+C:\Users\Rocel Torrecampo\OneDrive\Desktop\animals\animals\obj\Debug\animals.csproj.GenerateResource.cache
+C:\Users\Rocel Torrecampo\OneDrive\Desktop\animals\animals\obj\Debug\animals.csproj.CoreCompileInputs.cache
+C:\Users\Rocel Torrecampo\OneDrive\Desktop\animals\animals\obj\Debug\animals.exe
+C:\Users\Rocel Torrecampo\OneDrive\Desktop\animals\animals\obj\Debug\animals.pdb
+C:\Users\Rocel Torrecampo\OneDrive\Desktop\animals\animals\obj\Debug\animals.exe.config
+C:\Users\Gerald\Desktop\animals\animals\obj\Debug\animals.csproj.AssemblyReference.cache
+C:\Users\Gerald\Desktop\animals\animals\obj\Debug\Interop.WMPLib.dll
+C:\Users\Gerald\Desktop\animals\animals\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Gerald\Desktop\animals\animals\obj\Debug\animals.csproj.ResolveComReference.cache
+C:\Users\Gerald\Desktop\animals\animals\obj\Debug\animals.exe
+C:\Users\Gerald\Desktop\animals\animals\obj\Debug\animals.pdb
+C:\Users\Gerald\Desktop\animals\animals\obj\Debug\animals.exe.config
+C:\Users\Gerald\Desktop\animals\animals\bin\Debug\animals.exe.config
+C:\Users\Gerald\Desktop\animals\animals\bin\Debug\animals.exe
+C:\Users\Gerald\Desktop\animals\animals\bin\Debug\animals.pdb
+C:\Users\Gerald\Desktop\animals\animals\bin\Debug\Interop.WMPLib.dll
+C:\Users\Gerald\Desktop\animals\animals\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Gerald\Desktop\animals\animals\obj\Debug\animals.Form1.resources
+C:\Users\Gerald\Desktop\animals\animals\obj\Debug\animals.Properties.Resources.resources
+C:\Users\Gerald\Desktop\animals\animals\obj\Debug\animals.csproj.GenerateResource.cache
+C:\Users\Gerald\Desktop\animals\animals\obj\Debug\animals.csproj.CoreCompileInputs.cache
